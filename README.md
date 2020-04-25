@@ -1,2 +1,3 @@
 # Hello-World
 El Primero de muchos... espero
+Solo si fuese tan sencillo vincular con el git en mi computador...
